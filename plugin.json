@@ -1,0 +1,8 @@
+{
+  "id": "moonphase",
+  "name": "Moon Phase",
+  "version": "1.0.0",
+  "sdkVersion": "1.37",
+  "entryAssembly": "LoupixDeck.Plugin.MoonPhase.dll",
+  "platform": "All"
+}
